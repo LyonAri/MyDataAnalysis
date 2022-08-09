@@ -1,0 +1,23 @@
+<html>
+<body bgcolor=#a3cfb4>
+    <center>
+    <h1>  [PREDICTION] </h1>
+    {%if data == 0%}
+    <img src='static\iris_setosa.jfif' alt="income predict" width="879" height="624">
+    <h1>Iris-setosa</h1>
+    {%endif%}
+
+    {%if data == 1%}
+    <img src='static\iris_virginica.jfif' alt="income predict" width="800" height="596">
+    <h1>Iris-versicolor</h1>
+    {%endif%}
+
+    {%if data == 2%}
+    <img src='static\iris_versicolor.jfif' alt="income predict" width="800" height="800">
+    <h1>Iris-virginica</h1>
+    {%endif%}
+
+    <a href='/'>go back to home page</a>
+    </center>
+</body>
+</html>

@@ -1,6 +1,8 @@
 # MyDataAnalysis
 데이터에 대한 분석 내용 정리
 
+---
+
 ### 🌼[IRIS 데이터 분석]
   * 데이터 참조 : https://www.kaggle.com/datasets/uciml/iris
   
@@ -11,6 +13,7 @@
   * IRIS 기본 모델 만들기 [html]()
   * IRIS 모델 평가 [html]()
 
+---
 
 ### 🍷[wine quality 데이터 분석]
   * 데이터 참조 : https://www.kaggle.com/datasets/yasserh/wine-quality-dataset

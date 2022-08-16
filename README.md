@@ -21,5 +21,5 @@
 <img src="https://user-images.githubusercontent.com/106807456/183681218-4336f32e-5e28-44d7-bd82-7f29c6ccf5e3.png" width="40%" height="40%"/>
 
 * Wine Quality 데이터 셋에 대해 기본 모델을 만들고, html로 만들었다.
-* Wine 기본 모델 만들기 [html]()
+* Wine 기본 모델 만들기 [html](https://lyonari.github.io/MyDataAnalysis/wine_flask_test/wine_model.html)
   

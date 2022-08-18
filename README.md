@@ -25,18 +25,3 @@
 
 * Wine_Quality EDA [html]()
 * Wine_Quality 기본 모델 만들기 [html](https://lyonari.github.io/MyDataAnalysis/wine_flask_test/wine_model.html)
-
-|데이터|뜻|
-|---|---|
-|fixed acidity|고정산|
-|volatile acidity|휘발성 산|
-|citric acid|구연산|
-|residual sugar|잔당|
-|chlorides|염화물|
-|free sulfur dioxide|자유 이산화황|
-|total sulfur dioxide|전체 이산화황|
-|density|밀도|
-|pH|산도|
-|sulphates|황산염|
-|alcohol|알코올|
-|quality (score between 0 and 10)|품질|

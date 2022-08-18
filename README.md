@@ -26,6 +26,7 @@
 * Wine_Quality EDA [html]()
 * Wine_Quality 기본 모델 만들기 [html](https://lyonari.github.io/MyDataAnalysis/wine_flask_test/wine_model.html)
 
+|데이터|뜻|
 |---|---|
 |fixed acidity|고정산|
 |volatile acidity|휘발성 산|

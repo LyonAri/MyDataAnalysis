@@ -23,5 +23,5 @@
 
 * 내용 : Wine Quality 데이터 셋에 대해 기본 모델을 만들고, EDA를 만들어본다.
 
-* Wine_Quality EDA [html](https://lyonari.github.io/MyDataAnalysis/wine_flask_test/Wine_Quality_EDA.html)
+* Wine_Quality EDA [html]()
 * Wine_Quality 기본 모델 만들기 [html](https://lyonari.github.io/MyDataAnalysis/wine_flask_test/wine_model.html)

@@ -8,10 +8,10 @@
   
 <img src="https://user-images.githubusercontent.com/106807456/183677767-c865c645-37a3-438d-bdb0-e0d69d93c59d.png" width="40%" height="40%"/>
 
-  * 내용 : 머신러닝 논문에 사용된 IRIS 데이터 셋에 대해 EDA, 기본 모델을 만들어보고 모델 평가까지 해본다.
+  * 내용 : 머신러닝 논문에 사용된 IRIS 데이터 셋에 대해 EDA, 기본 모델을 만들어본다.
   
-  * IRIS EDA [html](https://lyonari.github.io/MyDataAnalysis/IRIS_BASIC01.html)
-  * IRIS 기본 모델 만들기 [html](https://lyonari.github.io/MyDataAnalysis/iris_flask_test/iris_model.html)
+  * 📊IRIS EDA [html](https://lyonari.github.io/MyDataAnalysis/IRIS_BASIC01.html)
+  * ⭐IRIS 기본 모델 만들기 [html](https://lyonari.github.io/MyDataAnalysis/iris_flask_test/iris_model.html)
 
 ---
 
@@ -22,5 +22,5 @@
 
 * 내용 : Wine Quality 데이터 셋에 대해 기본 모델을 만들고, EDA를 만들어본다.
 
-* Wine_Quality EDA [html](https://lyonari.github.io/MyDataAnalysis/wine_flask_test/wine_quality_EDA.html)
-* Wine_Quality 기본 모델 만들기 [html](https://lyonari.github.io/MyDataAnalysis/wine_flask_test/wine_model.html)
+* 📊Wine_Quality EDA [html](https://lyonari.github.io/MyDataAnalysis/wine_flask_test/wine_quality_EDA.html)
+* ⭐Wine_Quality 기본 모델 만들기 [html](https://lyonari.github.io/MyDataAnalysis/wine_flask_test/wine_model.html)

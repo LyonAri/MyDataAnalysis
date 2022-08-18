@@ -12,7 +12,6 @@
   
   * IRIS EDA [html](https://lyonari.github.io/MyDataAnalysis/IRIS_BASIC01.html)
   * IRIS 기본 모델 만들기 [html]()
-  * IRIS 모델 평가 [html]()
 
 ---
 
